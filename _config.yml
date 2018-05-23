@@ -4,7 +4,7 @@
 baseurl:
 url: https://bwisgood.github.io
 date_format: "ordinal"
-title: zxallen's-blog
+title: bwisgood's-blog
 subtitle: "白大烨"
 description: "白大烨的个人博客"
 keywords: bwisgood,bw,Python,Spider,Django,Flask
@@ -15,10 +15,10 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zxallen
+author: bwisgood
 # organization: www.jianshu.com/u/bf4c0b4a8c83
 # organization_url: https://www.jianshu.com/u/bf4c0b4a8c83
-github_username: zxallen
+github_username: bwisgood
 location: BeiJing, China
 email: bwisgood@163.com
 
