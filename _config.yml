@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: zxallen/zxallen.github.io
+repository: bwisgood/bwisgood.github.io
 
 # ---------------- #
 #      Comments    #
